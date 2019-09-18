@@ -1,6 +1,6 @@
 # my_new_project
 
-This is my new project.
+This is my old project.
 
 author:
 
